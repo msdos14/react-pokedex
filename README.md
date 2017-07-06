@@ -8,7 +8,7 @@ So really, i'm really excited about this! If you read this, and want to help by 
 ## How can I help?
 Well, thanks for asking.
 ### If you want to do a pull-request
-First read CODE_OF_CONDUCT.md and if everything is fine clone the project :
+First read [CODE_OF_CONDUCT.md](https://github.com/msdos14/react-pokedex/blob/master/CODE_OF_CONDUCT.md) and if everything is fine clone the project :
 
 ``` bash
 git clone https://github.com/msdos14/react-pokedex
